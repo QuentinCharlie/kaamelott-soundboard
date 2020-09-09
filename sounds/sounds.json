@@ -198,12 +198,6 @@
         "title": "C'est bon, y a pas de quoi en chier une galette"
     },
     {
-        "character": "Guenièvre",
-        "episode": "Livre I, 37 - La Romance de Lancelot",
-        "file": "cest_debile_cette_histoire.mp3",
-        "title": "C'est débile cette histoire"
-    },
-    {
         "character": "Merlin",
         "episode": "Livre I, 38 - Merlin et les Loups",
         "file": "oh_cest_la_vacherie_ca.mp3",
@@ -532,18 +526,6 @@
         "episode": "Livre III, 42 - Le Dialogue de Paix II",
         "file": "qu-est_ce_dire_que_ceci.mp3",
         "title": "Qu'est-ce à dire que ceci ?"
-    },
-    {
-        "character": "Léodagan",
-        "episode": "Livre I, 88 - L'éscorte",
-        "file": "2_3_poils_de_Q.mp3",
-        "title": "A 2-3 poils de cul"
-    },
-    {
-        "character": "Arthur",
-        "episode": "Livre III, 11 - Ablutions",
-        "file": "a_plus_tard.mp3",
-        "title": "A plus tard"
     },
     {
         "character": "Arthur",
@@ -1540,12 +1522,6 @@
         "episode": "Livre II, 14 - Les Classes de Bohort",
         "file": "vous-allez-me-montrer-ce-que-vous-avez-un-peu-dans-le-froc.mp3",
         "title": "Vous allez me montrer un peu ce que vous avez dans l'froc, ma mignonne !"
-    },
-    {
-        "character": "Le Maître d'armes",
-        "episode": "Livre II, 14 - Les Classes de Bohort",
-        "file": "allez-en-garde-espece-de-petite-couille-molle.mp3",
-        "title": "Allez en garde espèce de petite couille molle !"
     },
     {
         "character": "Arthur",
